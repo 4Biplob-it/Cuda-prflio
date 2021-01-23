@@ -1,0 +1,44 @@
+
+@media screen and (max-width: 480){
+    .header_content {
+        margin-top: 10px;
+    }
+  
+}
+
+
+@media screen and (max-width: 768px) {
+    #header_sec{
+        height: auto;
+    }
+   .logo {
+       width: 100%;
+       margin-bottom: 20px;
+   }
+  .logo a{
+      display: block;
+      text-align: center;
+  }
+   .menu{
+       width: 100%;
+       text-align: center;
+   }
+   .menu ul{
+       text-align: center;
+   }
+   .menu ul li{
+       display: block;
+   }
+   
+    .header_content{
+       margin-top: 60px;
+   }
+    .header_content, .client_review,.contact_text,.portfolio_text,.skill_text p{
+        font-size: 16px;
+    }
+
+    h3{
+        font-size: 20px;
+    }
+  
+}
